@@ -1,70 +1,88 @@
-# 🚀 React Books Library – v2
+# 📚 Atelier React
 
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![Vite](https://img.shields.io/badge/Vite-Fast%20Build-purple?logo=vite)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![Status](https://img.shields.io/badge/Project-Completed-success)
 
----
+## 📌 Description
 
-## ✨ Aperçu du projet
+Ce projet est une application React développée dans le cadre d’un atelier pédagogique.  
+Il permet d’afficher une bibliothèque de livres en utilisant :
 
-Une application web développée avec **React + Vite** permettant d’afficher une collection de livres sous forme de cartes interactives.
-
-👉 Objectif : maîtriser les bases essentielles de React à travers un projet concret et structuré.
-
----
-
-## 🎯 Objectifs pédagogiques
-
-Ce projet m’a permis de pratiquer :
-
-- 🧱 Création de composants réutilisables  
-- 🔗 Communication via les props  
-- ⚛️ Utilisation de JSX  
-- 📁 Organisation d’un projet React moderne  
-- ♻️ Réutilisation de logique UI  
+- ✅ JSX  
+- ✅ Composants  
+- ✅ Props  
+- ✅ Réutilisation de composants  
+- ✅ Structuration propre du projet  
 
 ---
 
-## 🖥️ Interface
+## 🏗️ Architecture du Projet
 
-L’application affiche :
-
-- Un message de bienvenue 👋  
-- Une liste de livres 📚  
-- Chaque livre dans une carte (`BookCard`)  
-
----
-
-## 🏗️ Structure du projet
-
-````atelier-react-livres/
+```bash
+atelier-react-livres/
 │
 ├── public/
 ├── src/
-│ ├── components/
-│ │ ├── MessageBienvenue.jsx
-│ │ └── BookCard.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
+│   ├── components/
+│   │   ├── MessageBienvenue.jsx
+│   │   └── BookCard.jsx
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
 │
 ├── package.json
 └── vite.config.js
-````
+```
 
-## ⚙️ Stack technique
+---
+## ⚙️ Technologies Utilisées
 
-- ⚛️ React  
-- ⚡ Vite  
-- 💛 JavaScript ES6  
-- 🎨 CSS  
+- ⚛️ React
+- ⚡ Vite
+- 💛 JavaScript ES6
+- 🎨 CSS
 
 ---
 
-## 🧠 Conclusion
+<img width="2113" height="1280" alt="image" src="https://github.com/user-attachments/assets/a5934abc-b3fd-4298-be0d-4778164dc439" />
+
+---
+
+
+### 4️⃣ Lancer le projet
+
+```bash
+npm run dev
+```
+
+Puis ouvrir :
+
+```
+http://localhost:5173
+```
+
+---
+
+
+## App.jsx : 
+<img width="2426" height="1227" alt="image" src="https://github.com/user-attachments/assets/96ec50d8-0070-4ecc-a29f-c830a8d73fa6" />
+
+
+
+
+---
+
+### 📚 Affichage des livres
+<img width="2557" height="1261" alt="image" src="https://github.com/user-attachments/assets/9d1a1e69-7d9b-49e0-8237-27a345bc0af0" />
+
+
+
+---
+
+
+
+##  Conclusion
 
 Ce projet m’a permis de comprendre les bases fondamentales de React :
 la création de composants, la transmission de données avec les props et l’organisation d’un projet moderne avec Vite.
+
+
