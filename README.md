@@ -68,7 +68,7 @@ http://localhost:5173
 ---
 
 ### 📚 Affichage des livres
-<img width="2557" height="1261" alt="image" src="https://github.com/user-attachments/assets/9d1a1e69-7d9b-49e0-8237-27a345bc0af0" />
+<img width="2557" height="1156" alt="557251195-9d1a1e69-7d9b-49e0-8237-27a345bc0af0" src="https://github.com/user-attachments/assets/406c74ba-3f3f-4503-82ad-da368da625e4" />
 
 
 
