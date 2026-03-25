@@ -39,15 +39,32 @@ L’application affiche :
 
 ## 🏗️ Structure du projet
 
-```bash
-📦 atelier-react-livres
- ┣ 📂 public
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📄 MessageBienvenue.jsx
- ┃ ┃ ┗ 📄 BookCard.jsx
- ┃ ┣ 📄 App.jsx
- ┃ ┣ 📄 main.jsx
- ┃ ┗ 📄 index.css
- ┣ 📄 package.json
- ┗ 📄 vite.config.js
+````atelier-react-livres/
+│
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── MessageBienvenue.jsx
+│ │ └── BookCard.jsx
+│ │
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── package.json
+└── vite.config.js
+````
+
+## ⚙️ Stack technique
+
+- ⚛️ React  
+- ⚡ Vite  
+- 💛 JavaScript ES6  
+- 🎨 CSS  
+
+---
+
+## 🧠 Conclusion
+
+Ce projet m’a permis de comprendre les bases fondamentales de React :
+la création de composants, la transmission de données avec les props et l’organisation d’un projet moderne avec Vite.
