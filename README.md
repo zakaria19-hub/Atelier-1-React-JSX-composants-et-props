@@ -43,10 +43,6 @@ atelier-react-livres/
 
 ---
 
-<img width="2113" height="1280" alt="image" src="https://github.com/user-attachments/assets/a5934abc-b3fd-4298-be0d-4778164dc439" />
-
----
-
 
 ### 4️⃣ Lancer le projet
 
